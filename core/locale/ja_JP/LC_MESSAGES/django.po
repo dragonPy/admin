@@ -1,0 +1,550 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-14 06:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: core/settings.py:83
+msgid "Admin Users"
+msgstr ""
+
+#: core/settings.py:86
+msgid "Files"
+msgstr ""
+
+#: settings/models.py:14
+msgid "Code"
+msgstr ""
+
+#: settings/models.py:15
+msgid "Name String CN"
+msgstr ""
+
+#: settings/models.py:16
+msgid "Card length enterprise"
+msgstr ""
+
+#: settings/models.py:17
+msgid "Card length private"
+msgstr ""
+
+#: settings/models.py:23 users/models.py:225
+msgid "Bank"
+msgstr ""
+
+#: settings/models.py:24
+msgid "Banks"
+msgstr ""
+
+#: settings/models.py:28 users/models.py:214
+msgid "Name"
+msgstr ""
+
+#: settings/models.py:29
+msgid "Name En"
+msgstr ""
+
+#: settings/models.py:30
+msgid "ISO2"
+msgstr ""
+
+#: settings/models.py:31
+msgid "Mobile code"
+msgstr ""
+
+#: settings/models.py:37 users/models.py:166
+msgid "Country"
+msgstr ""
+
+#: settings/models.py:38
+msgid "Countrys"
+msgstr ""
+
+#: settings/models.py:42
+msgid "District ID"
+msgstr ""
+
+#: settings/models.py:43
+msgid "District name"
+msgstr ""
+
+#: settings/models.py:44
+msgid "City ID"
+msgstr ""
+
+#: settings/models.py:45
+msgid "City name"
+msgstr ""
+
+#: settings/models.py:46
+msgid "Province ID"
+msgstr ""
+
+#: settings/models.py:47
+msgid "Province name"
+msgstr ""
+
+#: settings/models.py:57
+msgid "ProvinceCN"
+msgstr ""
+
+#: settings/models.py:58
+msgid "ProvinceCNs"
+msgstr ""
+
+#: settings/models.py:61
+msgid "alpha2"
+msgstr ""
+
+#: settings/models.py:62
+msgid "alpha3"
+msgstr ""
+
+#: settings/models.py:63
+msgid "English"
+msgstr ""
+
+#: settings/models.py:69 users/models.py:164
+msgid "Language"
+msgstr ""
+
+#: settings/models.py:70
+msgid "Languages"
+msgstr ""
+
+#: settings/models.py:74
+msgid "Span"
+msgstr ""
+
+#: settings/models.py:75
+msgid "Currency"
+msgstr ""
+
+#: settings/models.py:76
+msgid "Withdraw"
+msgstr ""
+
+#: settings/models.py:77
+msgid "Deposit"
+msgstr ""
+
+#: settings/models.py:78
+msgid "Memo"
+msgstr ""
+
+#: settings/models.py:84
+msgid "FundLimit"
+msgstr ""
+
+#: settings/models.py:85
+msgid "FundLimits"
+msgstr ""
+
+#: settings/models.py:89
+msgid "Alien"
+msgstr ""
+
+#: settings/models.py:90 settings/models.py:100
+msgid "Level"
+msgstr ""
+
+#: settings/models.py:91
+msgid "Condition"
+msgstr ""
+
+#: settings/models.py:92
+msgid "Limits"
+msgstr ""
+
+#: settings/models.py:95
+msgid "KYCLevel"
+msgstr ""
+
+#: settings/models.py:96
+msgid "KYCLevels"
+msgstr ""
+
+#: settings/models.py:101
+msgid "Level String"
+msgstr ""
+
+#: settings/models.py:102
+msgid "Point upper"
+msgstr ""
+
+#: settings/models.py:103
+msgid "Point lower"
+msgstr ""
+
+#: settings/models.py:104
+msgid "Withdraw rate"
+msgstr ""
+
+#: settings/models.py:105
+msgid "Loan leverage"
+msgstr ""
+
+#: settings/models.py:108
+msgid "PointLevel"
+msgstr ""
+
+#: settings/models.py:109
+msgid "PointLevels"
+msgstr ""
+
+#: templates/admin/base.html:79
+msgid "Welcome,"
+msgstr ""
+
+#: templates/admin/base.html:88
+msgid "Documentation"
+msgstr ""
+
+#: templates/admin/base.html:91
+msgid "Change password"
+msgstr ""
+
+#: templates/admin/base.html:93
+msgid "Log out"
+msgstr ""
+
+#: templates/admin/base.html:113
+msgid "Home"
+msgstr ""
+
+#: users/models.py:51
+msgid "Username"
+msgstr ""
+
+#: users/models.py:52
+msgid "Email"
+msgstr ""
+
+#: users/models.py:53
+msgid "Mobile"
+msgstr ""
+
+#: users/models.py:54
+msgid "Is alien"
+msgstr ""
+
+#: users/models.py:56
+msgid "User password"
+msgstr ""
+
+#: users/models.py:57
+msgid "User trade password"
+msgstr ""
+
+#: users/models.py:60
+msgid "User"
+msgstr ""
+
+#: users/models.py:61
+msgid "Users"
+msgstr ""
+
+#: users/models.py:128 users/models.py:144 users/models.py:157
+#: users/models.py:187 users/models.py:213 users/models.py:224
+#: users/models.py:288 users/models.py:296 users/models.py:306
+#: users/models.py:317
+msgid "UserId"
+msgstr ""
+
+#: users/models.py:129
+msgid "Daily btc withdraw limit"
+msgstr ""
+
+#: users/models.py:130
+msgid "Daily cny withdraw limit"
+msgstr ""
+
+#: users/models.py:131
+msgid "Daily ltc withdraw limit"
+msgstr ""
+
+#: users/models.py:132
+msgid "Once cny withdraw limit"
+msgstr ""
+
+#: users/models.py:133
+msgid "Max cny withdraw limit"
+msgstr ""
+
+#: users/models.py:134
+msgid "Withdraw fee override"
+msgstr ""
+
+#: users/models.py:137
+msgid "UserWithdrawStatus"
+msgstr ""
+
+#: users/models.py:138
+msgid "UserWithdrawStatuses"
+msgstr ""
+
+#: users/models.py:145
+msgid "User login attempts"
+msgstr ""
+
+#: users/models.py:146
+msgid "otpkey"
+msgstr ""
+
+#: users/models.py:147
+msgid "locked"
+msgstr ""
+
+#: users/models.py:150
+msgid "UserAuthorization"
+msgstr ""
+
+#: users/models.py:151
+msgid "UserAuthorizations"
+msgstr ""
+
+#: users/models.py:158
+msgid "Real name"
+msgstr ""
+
+#: users/models.py:159
+msgid "ID number"
+msgstr ""
+
+#: users/models.py:160
+msgid "ID type"
+msgstr ""
+
+#: users/models.py:161
+msgid "ID type other"
+msgstr ""
+
+#: users/models.py:162
+msgid "Gender"
+msgstr ""
+
+#: users/models.py:163
+msgid "Birth date"
+msgstr ""
+
+#: users/models.py:167
+msgid "State"
+msgstr ""
+
+#: users/models.py:168
+msgid "City"
+msgstr ""
+
+#: users/models.py:169
+msgid "Address"
+msgstr ""
+
+#: users/models.py:170
+msgid "Postal code"
+msgstr ""
+
+#: users/models.py:180 users/models.py:181
+msgid "UserProfile"
+msgstr ""
+
+#: users/models.py:188
+msgid "Phone verified"
+msgstr ""
+
+#: users/models.py:189
+msgid "Email verified"
+msgstr ""
+
+#: users/models.py:190
+msgid "Kyc verified"
+msgstr ""
+
+#: users/models.py:191
+msgid "ID expire date"
+msgstr ""
+
+#: users/models.py:192
+msgid "ID expire date verified"
+msgstr ""
+
+#: users/models.py:193
+msgid "ID images status"
+msgstr ""
+
+#: users/models.py:194
+msgid "Compliance lock status"
+msgstr ""
+
+#: users/models.py:195
+msgid "Kyc level"
+msgstr ""
+
+#: users/models.py:196
+msgid "Experience level"
+msgstr ""
+
+#: users/models.py:197
+msgid "Point"
+msgstr ""
+
+#: users/models.py:209
+msgid "UserStatus"
+msgstr ""
+
+#: users/models.py:210
+msgid "UserStatuses"
+msgstr ""
+
+#: users/models.py:215
+msgid "Value"
+msgstr ""
+
+#: users/models.py:216
+msgid "Created"
+msgstr ""
+
+#: users/models.py:217
+msgid "Modified"
+msgstr ""
+
+#: users/models.py:220 users/models.py:221
+msgid "UserConfig"
+msgstr ""
+
+#: users/models.py:226
+msgid "Cny bank account"
+msgstr ""
+
+#: users/models.py:227
+msgid "Cny bank name"
+msgstr ""
+
+#: users/models.py:228
+msgid "Cny bank beneficiary"
+msgstr ""
+
+#: users/models.py:232
+msgid "Cny bank province"
+msgstr ""
+
+#: users/models.py:236
+msgid "Cny bank city"
+msgstr ""
+
+#: users/models.py:238
+msgid "Cny bank mobile"
+msgstr ""
+
+#: users/models.py:239
+msgid "Override"
+msgstr ""
+
+#: users/models.py:284
+msgid "UserBankInfo"
+msgstr ""
+
+#: users/models.py:285
+msgid "UserBankInfos"
+msgstr ""
+
+#: users/models.py:289
+msgid "ChangePwdAt"
+msgstr ""
+
+#: users/models.py:292
+msgid "UserChangePwdAt"
+msgstr ""
+
+#: users/models.py:293
+msgid "UserChangePwdAts"
+msgstr ""
+
+#: users/models.py:297
+msgid "AccessKey"
+msgstr ""
+
+#: users/models.py:298
+msgid "Secret"
+msgstr ""
+
+#: users/models.py:299
+msgid "Description"
+msgstr ""
+
+#: users/models.py:302
+msgid "UserAccessToken"
+msgstr ""
+
+#: users/models.py:303
+msgid "UserAccessTokens"
+msgstr ""
+
+#: users/models.py:307
+msgid "IPAddress"
+msgstr ""
+
+#: users/models.py:308
+msgid "IPCity"
+msgstr ""
+
+#: users/models.py:309
+msgid "Timestamp"
+msgstr ""
+
+#: users/models.py:312 users/models.py:313
+msgid "UserLoginHistory"
+msgstr ""
+
+#: users/models.py:318
+msgid "Operator Id"
+msgstr ""
+
+#: users/models.py:319
+msgid "Request Type"
+msgstr ""
+
+#: users/models.py:320
+msgid "Status"
+msgstr ""
+
+#: users/models.py:321
+msgid "Data"
+msgstr ""
+
+#: users/models.py:322
+msgid "Comments"
+msgstr ""
+
+#: users/models.py:323
+msgid "Create at"
+msgstr ""
+
+#: users/models.py:324
+msgid "Last modify at"
+msgstr ""
+
+#: users/models.py:327
+msgid "UserRequest"
+msgstr ""
+
+#: users/models.py:328
+msgid "UserRequests"
+msgstr ""
+
+#: users/validators.py:22
+#, python-format
+msgid "%(value)s is not a valid config key"
+msgstr ""

@@ -1,0 +1,587 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-15 14:10+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: core/settings.py:83
+msgid "Admin Users"
+msgstr "管理员用户"
+
+#: core/settings.py:86
+msgid "Files"
+msgstr "文件"
+
+#: settings/models.py:14
+msgid "Code"
+msgstr "码"
+
+#: settings/models.py:15
+msgid "Bank Chinese name"
+msgstr "银行中文名称"
+
+#: settings/models.py:16
+msgid "Enterprise card length"
+msgstr "企业卡长度"
+
+#: settings/models.py:17
+msgid "Private card length"
+msgstr "私人卡长度"
+
+#: settings/models.py:23 users/models.py:225
+msgid "Bank"
+msgstr "银行"
+
+#: settings/models.py:24
+msgid "Banks"
+msgstr "银行"
+
+#: settings/models.py:28 users/models.py:214
+msgid "Name"
+msgstr "名称"
+
+#: settings/models.py:29
+msgid "English name"
+msgstr "英文名"
+
+#: settings/models.py:30
+msgid "ISO2"
+msgstr "ISO2"
+
+#: settings/models.py:31
+msgid "Mobile code"
+msgstr "移动代码"
+
+#: settings/models.py:37 users/models.py:166
+msgid "Country"
+msgstr "国家"
+
+#: settings/models.py:38
+msgid "Countrys"
+msgstr "国家"
+
+#: settings/models.py:42
+msgid "District ID"
+msgstr "区ID"
+
+#: settings/models.py:43
+msgid "District name"
+msgstr "区名"
+
+#: settings/models.py:44
+msgid "City ID"
+msgstr "城市ID"
+
+#: settings/models.py:45
+msgid "City name"
+msgstr "城市名"
+
+#: settings/models.py:46
+msgid "Province ID"
+msgstr "省ID"
+
+#: settings/models.py:47
+msgid "Province name"
+msgstr "省名"
+
+#: settings/models.py:57
+msgid "Chinese Province"
+msgstr "中国省"
+
+#: settings/models.py:58
+msgid "Chinese Provinces"
+msgstr "中国各省"
+
+#: settings/models.py:61
+msgid "alpha2"
+msgstr ""
+
+#: settings/models.py:62
+msgid "alpha3"
+msgstr ""
+
+#: settings/models.py:63
+msgid "English"
+msgstr "英语"
+
+#: settings/models.py:69 users/models.py:164
+msgid "Language"
+msgstr "语言"
+
+#: settings/models.py:70
+msgid "Languages"
+msgstr "语言"
+
+#: settings/models.py:74
+msgid "Span"
+msgstr "跨度"
+
+#: settings/models.py:75
+msgid "Currency"
+msgstr "货币"
+
+#: settings/models.py:76
+msgid "Withdraw"
+msgstr "取款"
+
+#: settings/models.py:77
+msgid "Deposit"
+msgstr "存款"
+
+#: settings/models.py:78
+msgid "Memo"
+msgstr "备忘录"
+
+#: settings/models.py:84
+msgid "Fund Limit"
+msgstr "资金限制"
+
+#: settings/models.py:85
+msgid "Fund Limits"
+msgstr "资金限制"
+
+#: settings/models.py:89
+msgid "Alien"
+msgstr "是否为外国人"
+
+#: settings/models.py:90 settings/models.py:100
+msgid "Level"
+msgstr "等级"
+
+#: settings/models.py:91
+msgid "Condition"
+msgstr "条件"
+
+#: settings/models.py:92
+msgid "Limits"
+msgstr "限制"
+
+#: settings/models.py:95
+msgid "KYC Level"
+msgstr "KYC等级"
+
+#: settings/models.py:96
+msgid "KYC Levels"
+msgstr "KYC等级"
+
+#: settings/models.py:101
+msgid "Level String"
+msgstr "等级"
+
+#: settings/models.py:102
+msgid "Point upper"
+msgstr "分数上限"
+
+#: settings/models.py:103
+msgid "Point lower"
+msgstr "分数下限"
+
+#: settings/models.py:104
+msgid "Withdraw rate"
+msgstr "提现手续费"
+
+#: settings/models.py:105
+msgid "Loan leverage"
+msgstr "杠杆贷款"
+
+#: settings/models.py:108
+msgid "Point Level"
+msgstr "分数等级"
+
+#: settings/models.py:109
+msgid "Point Levels"
+msgstr "分数等级"
+
+#: templates/admin/base.html:79
+msgid "Welcome,"
+msgstr "欢迎，"
+
+#: templates/admin/base.html:88
+msgid "Documentation"
+msgstr "文档"
+
+#: templates/admin/base.html:91
+msgid "Change password"
+msgstr "更改密码"
+
+#: templates/admin/base.html:93
+msgid "Log out"
+msgstr "登出"
+
+#: templates/admin/base.html:113
+msgid "Home"
+msgstr "主页"
+
+#: users/models.py:51
+msgid "Username"
+msgstr "用户名"
+
+#: users/models.py:52
+msgid "Email"
+msgstr "电子邮件"
+
+#: users/models.py:53
+msgid "Mobile"
+msgstr "移动"
+
+#: users/models.py:54
+msgid "Is alien"
+msgstr "是否为外星人"
+
+#: users/models.py:56
+msgid "User password"
+msgstr "用户密码"
+
+#: users/models.py:57
+msgid "User trade password"
+msgstr "用户交易密码"
+
+#: users/models.py:60
+msgid "User"
+msgstr "用户"
+
+#: users/models.py:61
+msgid "Users"
+msgstr "用户"
+
+#: users/models.py:66
+msgid "email & mobile cannot both be blank"
+msgstr "电子邮件和电话不能同时为空白"
+
+#: users/models.py:74
+msgid "user withdraw status missing"
+msgstr "用户取款状态信息缺失"
+
+#: users/models.py:81
+msgid "user authorization missing"
+msgstr "用户授权信息缺失"
+
+#: users/models.py:88 users/models.py:95 users/models.py:288
+#: users/models.py:295
+msgid "user profile missing"
+msgstr "用户个人信息丢失"
+
+#: users/models.py:122
+msgid "user missing"
+msgstr "用户缺失"
+
+#: users/models.py:128 users/models.py:144 users/models.py:157
+#: users/models.py:187 users/models.py:213 users/models.py:224
+#: users/models.py:302 users/models.py:310 users/models.py:320
+#: users/models.py:331
+msgid "UserId"
+msgstr "用户ID"
+
+#: users/models.py:129
+msgid "Daily btc withdraw limit"
+msgstr "每日BTC提现限制"
+
+#: users/models.py:130
+msgid "Daily cny withdraw limit"
+msgstr "每日人民币提现限制"
+
+#: users/models.py:131
+msgid "Daily ltc withdraw limit"
+msgstr "每日LTC提现限制"
+
+#: users/models.py:132
+msgid "Once cny withdraw limit"
+msgstr "一次人民币提现限制"
+
+#: users/models.py:133
+msgid "Max cny withdraw limit"
+msgstr "最大人民币提现限制"
+
+#: users/models.py:134
+msgid "Withdraw fee override"
+msgstr "提现费率覆盖"
+
+#: users/models.py:137
+msgid "User withdraw status"
+msgstr "用户提现状态"
+
+#: users/models.py:138
+msgid "User withdraw statuses"
+msgstr "用户提现状态"
+
+#: users/models.py:145
+msgid "User login attempts"
+msgstr "用户登录尝试次数"
+
+#: users/models.py:146
+msgid "otpkey"
+msgstr "谷歌otpkey"
+
+#: users/models.py:147
+msgid "locked"
+msgstr "锁定"
+
+#: users/models.py:150
+msgid "User authorization"
+msgstr "用户授权"
+
+#: users/models.py:151
+msgid "User authorizations"
+msgstr "用户授权"
+
+#: users/models.py:158
+msgid "Real name"
+msgstr "真实姓名"
+
+#: users/models.py:159
+msgid "ID number"
+msgstr "身份证号"
+
+#: users/models.py:160
+msgid "ID type"
+msgstr "ID类型"
+
+#: users/models.py:161
+msgid "ID type other"
+msgstr "ID类型"
+
+#: users/models.py:162
+msgid "Gender"
+msgstr "性别"
+
+#: users/models.py:163
+msgid "Birth date"
+msgstr "生日"
+
+#: users/models.py:167
+msgid "State"
+msgstr "州"
+
+#: users/models.py:168
+msgid "City"
+msgstr "市"
+
+#: users/models.py:169
+msgid "Address"
+msgstr "地址"
+
+#: users/models.py:170
+msgid "Postal code"
+msgstr "邮政编码"
+
+#: users/models.py:180
+msgid "User Profile"
+msgstr "用户资料"
+
+#: users/models.py:181
+msgid "User Profiles"
+msgstr "用户资料"
+
+#: users/models.py:188
+msgid "Phone verified"
+msgstr "手机是否验证"
+
+#: users/models.py:189
+msgid "Email verified"
+msgstr "电子邮件是否验证"
+
+#: users/models.py:190
+msgid "Kyc verified"
+msgstr "KYC是否验证"
+
+#: users/models.py:191
+msgid "ID expire date"
+msgstr "ID过期日期"
+
+#: users/models.py:192
+msgid "ID expire date verified"
+msgstr "ID过期日期是否确认"
+
+#: users/models.py:193
+msgid "ID images status"
+msgstr "ID的图像状态"
+
+#: users/models.py:194
+msgid "Compliance lock status"
+msgstr "合规性锁定状态"
+
+#: users/models.py:195
+msgid "Kyc level"
+msgstr "KYC 等级"
+
+#: users/models.py:196
+msgid "Experience level"
+msgstr "经验水平"
+
+#: users/models.py:197
+msgid "Point"
+msgstr "分数"
+
+#: users/models.py:209
+msgid "User status"
+msgstr "用户状态"
+
+#: users/models.py:210
+msgid "User statuses"
+msgstr "用户状态"
+
+#: users/models.py:215
+msgid "Value"
+msgstr "值"
+
+#: users/models.py:216
+msgid "Created"
+msgstr "创建"
+
+#: users/models.py:217
+msgid "Modified"
+msgstr "修改"
+
+#: users/models.py:220 users/models.py:221
+msgid "User config"
+msgstr "用户配置"
+
+#: users/models.py:226
+msgid "Cny bank account"
+msgstr "人民币银行账户"
+
+#: users/models.py:227
+msgid "Cny bank name"
+msgstr "人民币银行名称"
+
+#: users/models.py:228
+msgid "Cny bank beneficiary"
+msgstr "人民币银行收款人"
+
+#: users/models.py:232
+msgid "Cny bank province"
+msgstr "人民币银行省"
+
+#: users/models.py:236
+msgid "Cny bank city"
+msgstr "人民币银行城市"
+
+#: users/models.py:238
+msgid "Cny bank mobile"
+msgstr "人民币银行移动"
+
+#: users/models.py:239
+msgid "Override"
+msgstr "覆盖"
+
+#: users/models.py:255
+msgid "user realname missing"
+msgstr "用户真实姓名缺失"
+
+#: users/models.py:258
+msgid "user id number missing"
+msgstr "用户ID号缺失"
+
+#: users/models.py:274
+msgid "remote validation failed"
+msgstr "验证失败"
+
+#: users/models.py:298 users/models.py:299
+msgid "User bank info"
+msgstr "用户银行信息"
+
+#: users/models.py:303
+msgid "ChangePwdAt"
+msgstr "用户更改密码于"
+
+#: users/models.py:306
+msgid "User change password time"
+msgstr "用户更改密码时间"
+
+#: users/models.py:307
+msgid "User change password times"
+msgstr "用户更改密码时间"
+
+#: users/models.py:311
+msgid "AccessKey"
+msgstr "ACCESSKEY"
+
+#: users/models.py:312
+msgid "Secret"
+msgstr "秘密"
+
+#: users/models.py:313
+msgid "Description"
+msgstr "描述"
+
+#: users/models.py:316
+msgid "User access token"
+msgstr "用户访问令牌"
+
+#: users/models.py:317
+msgid "User access tokens"
+msgstr "用户访问令牌"
+
+#: users/models.py:321
+msgid "IPAddress"
+msgstr "IP地址"
+
+#: users/models.py:322
+msgid "IPCity"
+msgstr "IPCity"
+
+#: users/models.py:323
+msgid "Timestamp"
+msgstr "时间戳"
+
+#: users/models.py:326
+msgid "User login history"
+msgstr "用户登录历史"
+
+#: users/models.py:327
+msgid "User login histories"
+msgstr "用户登录历史"
+
+#: users/models.py:332
+msgid "Operator Id"
+msgstr "操作人ID"
+
+#: users/models.py:333
+msgid "Request Type"
+msgstr "请求类型"
+
+#: users/models.py:334
+msgid "Status"
+msgstr "状态"
+
+#: users/models.py:335
+msgid "Data"
+msgstr "数据"
+
+#: users/models.py:336
+msgid "Comments"
+msgstr "注释"
+
+#: users/models.py:337
+msgid "Create at"
+msgstr "创建于"
+
+#: users/models.py:338
+msgid "Last modify at"
+msgstr "最后修改于"
+
+#: users/models.py:341
+msgid "User request"
+msgstr "用户要求"
+
+#: users/models.py:342
+msgid "User requests"
+msgstr "用户请求"
+
+#: users/validators.py:22
+msgid "%(value)s is not a valid config key"
+msgstr "％（值）s不是一个有效的配置重点"

@@ -1,0 +1,10 @@
+*.pyc
+venv
+core/users/migrations
+.coverage
+.idea
+*.swp
+*.idea
+*.sqlite3
+*.mo
+.DS_Store

@@ -1,0 +1,7 @@
+0,0,Name + ID,Domestic:LEVEL1
+0,1,Photo + Hold,Domestic:LEVEL2
+0,2,Video,Domestic:LEVEL3
+0,3,Other,
+1,0,Phone + Mail + Passport + Hold,Foreign:LEVEL1
+1,1,VisaPage + Address,Foreign:LEVEL2
+1,2,Other,

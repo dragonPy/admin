@@ -1,0 +1,3 @@
+.coverage
+core_settings/migrations
+db.sqlite3
